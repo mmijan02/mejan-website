@@ -41,8 +41,8 @@ main {
 
 // ...existing code...
 .profile-photo {
-  width: 15px;
-  height: 15px;
+  width: 25px;
+  height: 25px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
@@ -131,8 +131,8 @@ a {
   }
 
   .Profile-photo {
-    width: 15px;
-    height: 15px;
+    width: 25px;
+    height: 25px;
   }
 
   .cta-row {
