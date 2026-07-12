@@ -2,25 +2,102 @@
 title: "About"
 ---
 
-## Biography
+# About Me
 
-Political Science and International Studies undergraduate at the University of Idaho with research interests in
-political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights.
-Experienced in quantitative and qualitative research, literature review, data management, academic writing,
-and conference presentation. Skilled in R, SPSS, Python, LATEX, Overleaf, Excel, and data analysis.
+I am **Md Mejanur Rahman Mejan**, an undergraduate student pursuing dual bachelor's degrees in **Political Science** and **International Studies** at the **University of Idaho**, with an expected graduation date of **May 2027**.
 
-## Education
-- B.S. Political Science and International Studies, University of Idaho (expected 2027)
+My research focuses on **political behavior, public opinion, electoral legitimacy, democratic institutions, political psychology, comparative politics, public policy, and human rights**. I am particularly interested in understanding how citizens evaluate democratic institutions, perceive political threats, and form attitudes toward elections and governance.
 
-## Skills
-- R, Python, SPSS, Stata
-- Quantitative research design and regression modeling
-- Survey analysis and data visualization
-- LaTeX and academic writing
+My work combines **quantitative and qualitative research methods**, including survey analysis, statistical modeling, and experimental research design. I have presented research at regional academic conferences and continue to develop projects using large public opinion datasets and modern computational tools.
 
-## Languages
-- Bengali (native)
-- English (Fluent)
-- Hindi (professional)
-- Urdu (professional)
-- Arabic (intermediate)
+Outside of research, I enjoy learning new analytical methods, programming, and collaborating on interdisciplinary projects that connect political science, public policy, and data science.
+
+---
+
+# Research Interests
+
+- Political Behavior
+- Public Opinion
+- Electoral Legitimacy
+- Democratic Institutions
+- Political Psychology
+- Comparative Politics
+- Public Policy
+- Human Rights
+
+---
+
+# Education
+
+## University of Idaho
+
+**Bachelor of Science**
+
+- Political Science
+- International Studies
+
+**Expected Graduation:** May 2027
+
+---
+
+# Research & Technical Skills
+
+### Research
+
+- Quantitative Research
+- Qualitative Research
+- Survey Research
+- Experimental Research Design
+- Literature Review
+- Statistical Analysis
+- Regression Modeling
+- Data Visualization
+- Academic Writing
+
+### Programming & Software
+
+- R
+- Python
+- SPSS
+- Stata
+- SQL
+- Microsoft Excel
+- LaTeX
+- Overleaf
+- Git & GitHub
+
+---
+
+# Conference Presentations
+
+- Idaho Political Science Association Annual Conference
+- Pacific Northwest Political Science Association (PNWPSA)
+- National Model United Nations (NMUN)
+
+---
+
+# Languages
+
+| Language | Proficiency |
+|-----------|-------------|
+| Bengali | Native |
+| English | Fluent |
+| Hindi | Professional |
+| Urdu | Professional |
+| Arabic | Basic |
+
+---
+
+# Current Research
+
+My current research explores topics including:
+
+- Electoral legitimacy and democratic attitudes
+- Political behavior and public opinion
+- Political psychology
+- Democratic institutions
+- Public policy
+- Comparative politics
+- Human rights
+
+I am always interested in collaborating on research related to political science, public policy, and quantitative methods.
