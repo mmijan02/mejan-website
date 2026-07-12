@@ -4,7 +4,10 @@ title: "Home"
 
 # Md Mejanur Rahman Mejan
 
-I am a student researcher interested in political behavior, electoral legitimacy, comparative politics, and public health risk perception. My work combines quantitative methods with applied social science research.
+Political Science and International Studies undergraduate at the University of Idaho with research interests in
+political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights.
+Experienced in quantitative and qualitative research, literature review, data management, academic writing,
+and conference presentation. Skilled in R, SPSS, Python, LATEX, Overleaf, Excel, and data analysis.
 
 ## Current roles
 - Research Assistant, Department of Political Science, University of Idaho
