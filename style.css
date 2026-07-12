@@ -41,8 +41,8 @@ main {
 
 // ...existing code...
 .profile-photo {
-  width: 25px;
-  height: 25px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
@@ -53,7 +53,7 @@ main {
 // ...existing code...
 
 @media (max-width: 480px) {
-  .profile-photo { width: 28vw; max-width: 120px; }
+  .profile-photo { width: 15vw; max-width: 15px; }
 }
 // ...existing code...
 
@@ -131,8 +131,8 @@ a {
   }
 
   .Profile-photo {
-    width: 25px;
-    height: 25px;
+    width: 15px;
+    height: 15px;
   }
 
   .cta-row {
