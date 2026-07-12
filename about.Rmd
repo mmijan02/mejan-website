@@ -4,7 +4,10 @@ title: "About"
 
 ## Biography
 
-I am an undergraduate student at the University of Idaho studying Political Science and International Studies. My academic interests center on public opinion, political psychology, and how people evaluate elections and democratic legitimacy.
+Political Science and International Studies undergraduate at the University of Idaho with research interests in
+political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights.
+Experienced in quantitative and qualitative research, literature review, data management, academic writing,
+and conference presentation. Skilled in R, SPSS, Python, LATEX, Overleaf, Excel, and data analysis.
 
 ## Education
 - B.S. Political Science and International Studies, University of Idaho (expected 2027)
@@ -17,7 +20,7 @@ I am an undergraduate student at the University of Idaho studying Political Scie
 
 ## Languages
 - Bengali (native)
-- English (professional)
+- English (Fluent)
 - Hindi (professional)
 - Urdu (professional)
 - Arabic (intermediate)
