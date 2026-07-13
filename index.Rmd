@@ -1,3 +1,6 @@
+---
+title: "Home"
+---
 
 <style>
 body {
@@ -9,30 +12,56 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
-</style>
-<style>
+
 .main-container {
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 8px;
   padding: 2rem;
 }
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  padding: 2rem 1rem;
+}
+
+.profile-photo {
+  width: 220px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #c8102e;
+}
+
+.hero h1 {
+  margin: 0.5rem 0 0;
+  font-size: 2rem;
+}
+
+.hero p {
+  max-width: 650px;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
 </style>
----
-title: "Home"
----
 
-# Md Mejanur Rahman Mejan
-
-Political Science and International Studies undergraduate at the University of Idaho with research interests in
-political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights.
-Experienced in quantitative and qualitative research, literature review, data management, academic writing,
-and conference presentation. Skilled in R, SPSS, Python, LATEX, Overleaf, Excel, and data analysis.
+<div class="hero">
+  <img src="Mejan picccc.jpg" alt="Md Mejanur Rahman Mejan" class="profile-photo">
+  <h1>Md Mejanur Rahman Mejan</h1>
+  <p>Political Science and International Studies undergraduate at the University of Idaho with research interests in political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights. Experienced in quantitative and qualitative research, literature review, data management, academic writing, and conference presentation. Skilled in R, SPSS, Python, LaTeX, Overleaf, Excel, and data analysis.</p>
+</div>
 
 ## Current roles
+
 - Research Assistant, Department of Political Science, University of Idaho
 - Research Trainee, Institute for Health in the Human Ecosystem (IHHE)
 - Editorial Board Member, Cook Undergraduate Research Journal
+- Member, Political Science Lab, University of Idaho
 
 ## Contact
+
 - Email: meja7831@vandals.uidaho.edu
 - LinkedIn: [md-mejanur-rahman-mejan](https://www.linkedin.com/in/md-mejanur-rahman-mejan-389b5421b)
