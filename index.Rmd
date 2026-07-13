@@ -142,7 +142,7 @@ body {
   <div class="hero-right">
     <p>I am a <strong>Political Science and International Studies undergraduate</strong> at the <a href="https://www.uidaho.edu" target="_blank">University of Idaho</a>, with research interests spanning political behavior, public opinion, electoral legitimacy, comparative politics, public policy, and human rights.</p>
     <p>My work bridges <strong>quantitative and qualitative research</strong>, including survey design, data management, and academic writing. I currently serve as a <strong>Research Assistant</strong> in the Department of Political Science and a <strong>Research Trainee</strong> at the Institute for Health in the Human Ecosystem (IHHE), where I study disease ecology, public health risk, and environmental health.</p>
-    <p>I am skilled in <strong>R, SPSS, Python, LaTeX, Overleaf</strong>, and Excel, with experience in statistical modeling, regression analysis, and data visualization.</p>
+    <p>I am skilled in <strong>R, Python, LaTeX, Overleaf</strong>, and Excel, with experience in statistical modeling, regression analysis, and data visualization.</p>
   </div>
 </section>
 
